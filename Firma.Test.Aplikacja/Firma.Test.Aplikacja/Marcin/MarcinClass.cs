@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Firma.Test.Aplikacja.Marcin
 {
-    class MarcinClass2
+    class MarcinClass222
     {
     }
 }
